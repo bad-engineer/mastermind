@@ -1,2 +1,2 @@
 # mastermind
-The Mastermind game, single/ two-player
+The single & two- player Mastermind game
